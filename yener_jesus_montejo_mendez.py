@@ -6,3 +6,4 @@ for i in range(1, numero + 1):
         impares.append(i)
 impares_str = ', '.join(map(str, impares))
 print("Números impares desde 1 hasta", numero, ":",impares_str)
+print("listo")
